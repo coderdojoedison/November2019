@@ -1,0 +1,5 @@
+Orange 4
+Apple 3
+Lemon 6
+Pineapple 7
+Watermelon 2
