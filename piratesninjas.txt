@@ -1,2 +1,0 @@
-pirates 50
-ninjas 50
