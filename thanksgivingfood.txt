@@ -6,5 +6,7 @@ MashedPotato 2
 
 Gravy 1
 
-CranberrySauce 2
+CranberrySauce 1
+
+Chicken 1
 

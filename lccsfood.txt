@@ -1,0 +1,9 @@
+Pizza 3
+
+Burger 2
+
+Pasta 5
+
+YogurtBag 2
+
+Chips 1
